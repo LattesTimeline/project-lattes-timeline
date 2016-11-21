@@ -1,0 +1,16 @@
+/*
+ * SPECIAL
+ * ---------------------------------------
+ * DESCRICAO : CSS PARA TELAS PEQUENAS E NAO MOBILE
+ * ---------------------------------------
+*/
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+@media screen and (max-width:994px) {
+	/* ************************* DIV  */
+	div.lt-container-header div.lt-container-center-logo div.lt-logo-text-center{
+		margin-left: 25% !important;
+	}
+}

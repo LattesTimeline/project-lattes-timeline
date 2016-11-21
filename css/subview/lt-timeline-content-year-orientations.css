@@ -1,0 +1,40 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+div.lt-container-year-academic-content div.lt-container-year-academic-node-content div.lt-container-done-master-orientation{
+	margin-left: 20px;
+	margin-right: 0;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+
+	border-bottom: 1px solid #E8E8E8;
+}
+
+div.lt-container-year-academic-content div.lt-container-year-academic-node-content div.lt-container-done-other-orientation{
+	margin-left: 20px;
+	margin-right: 0;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+
+	border-bottom: 1px solid #E8E8E8;
+}
+
+div.lt-container-year-academic-content div.lt-container-year-academic-node-content div.lt-container-going-scientific-orientation{
+	margin-left: 20px;
+	margin-right: 0;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+
+	border-bottom: 1px solid #E8E8E8;
+}
+
+div.lt-container-year-academic-content div.lt-container-year-academic-node-content div.lt-container-going-master-orientation{
+	margin-left: 20px;
+	margin-right: 0;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+
+	border-bottom: 1px solid #E8E8E8;
+}

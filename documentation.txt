@@ -1,0 +1,154 @@
+/* 
+| -------------------------------------------------------------------
+| VOCABULARIO 
+| -------------------------------------------------------------------
+| C.I.						= CodeIgniter;
+| NODES						= Nós ou Tags de um arquivo XML;
+| Timeline 					= Linha do tempo;
+| URL 						= ;
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\config\autoload.php
+| -------------------------------------------------------------------
+| AUTO-LOADER
+| -------------------------------------------------------------------
+| CRIADOR : CodeIgniter
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo de configuração do projeto padrão do C.I, res-
+| ponsável por carregar algumas configurações iniciais da aplicação. 
+| Atualmente está carregando a biblioteca de sessão, validação de 
+| formulário e a biblioteca de criação própria : "MY_LT_LIB.php".
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\config\config.php
+| -------------------------------------------------------------------
+| CONFIG
+| -------------------------------------------------------------------
+| CRIADOR : CodeIgniter
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo de configuração do projeto padrão do C.I., res-
+| ponsável por configurações de funcionamento da aplicação. Foi modi-
+| ficado apenas o valor da BASE_URL.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\config\constants.php
+| -------------------------------------------------------------------
+| CONSTANTS
+| -------------------------------------------------------------------
+| CRIADOR : CodeIgniter
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo de configuração do projeto padrão do C.I., res-
+| ponsável pelo armazenamento de todas as constantes utilizadas por 
+| toda a aplicação. Foi alterado para comportar todas as constantes 
+| que são utilizadas para consulta dos NODES do arquivo XML que é 
+| carregado para visualização da Timeline.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\config\routes.php
+| -------------------------------------------------------------------
+| ROUTES
+| -------------------------------------------------------------------
+| CRIADOR : CodeIgniter
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo de configuração do projeto padrão do C.I., res-
+| ponsável pelo roteamento da aplicação. Foi feita a modificação de 
+| algumas URL's de acesso para facilitar o acesso.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\language\en-us\msg_lang.php
+| -------------------------------------------------------------------
+| MSG_LANG
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo criado para conter todas as palavras e mensagens 
+| da aplicação no idioma Inglês-Americano. Utilizado para internacio-
+| nalização. Por padrão do C.I. é necessário que todos os arquivos de 
+| tradução contenham "_lang" ao final de seu nome.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\language\en-us\form_validation_lang.php
+| -------------------------------------------------------------------
+| FORM_VALIDATION_LANG
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo criado para conter todas as palavras e mensagens 
+| da aplicação no idioma Inglês-Americano. Utilizado para internacio-
+| nalização. Por padrão do C.I. é necessário que todos os arquivos de 
+| tradução contenham "_lang" ao final de seu nome. Este arquivo foi 
+| criado para sobrescrever o arquivo padrão do C.I..
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\language\pt-br\msg_lang.php
+| -------------------------------------------------------------------
+| MSG_LANG
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo criado para conter todas as palavras e mensagens 
+| da aplicação no idioma Português-Brasileiro. Utilizado para internacio-
+| nalização. Por padrão do C.I. é necessário que todos os arquivos de 
+| tradução contenham "_lang" ao final de seu nome.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\language\pt-br\form_validation_lang.php
+| -------------------------------------------------------------------
+| FORM_VALIDATION_LANG
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo criado para conter todas as palavras e mensagens 
+| da aplicação no idioma Português-Brasileiro. Utilizado para internacio-
+| nalização. Por padrão do C.I. é necessário que todos os arquivos de 
+| tradução contenham "_lang" ao final de seu nome. Este arquivo foi 
+| criado para sobrescrever o arquivo padrão do C.I..
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\libraries\MY_LT_LIB.php
+| -------------------------------------------------------------------
+| MY_LT_LIB
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo criado para conter as funcionalidades princi-
+| pais da aplicacao. Tais como : carregamento do arquivo de interna-
+| cionalizacao, consulta do arquivo XML, processamento dos NODE's do 
+| arquivo XML, etc. Essa é a principal biblioteca da aplicação.
+| -------------------------------------------------------------------
+|
+*/

@@ -1,0 +1,34 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+div.lt-container-name{
+	text-align: center;
+
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 48px;
+}
+
+div.lt-container-timeline{
+	margin-top: 20px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/* ************************* IMG  */
+img#lt-image-charts{
+	width: 48px;
+	height: 48px;
+
+	cursor: pointer;
+}
+
+/* ************************* SPAN  */
+div.lt-container-name span{
+	color: #326C99;
+
+	font-size: 150%;
+	font-weight: 400;
+}

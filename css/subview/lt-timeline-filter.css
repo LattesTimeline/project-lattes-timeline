@@ -1,0 +1,88 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+div.lt-container-filters{
+	margin-top: 10px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div.lt-container-filters div.lt-container-minimizer{
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+
+	margin-bottom: 10px;
+}
+
+div.lt-container-filters div#lt-container-filters{
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+div.lt-container-filters div.lt-filter-column{
+	text-align: left;
+
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+div.lt-container-filters div.lt-filter-main{
+	border-right: 1px dotted #326C99;
+
+	padding-left: 0;
+}
+
+div.lt-container-filters div.lt-filter-column div.lt-filter{
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 6px;
+
+	padding-right: 10px;
+}
+
+/* ************************* LABEL  */
+div.lt-container-filters div.lt-filter label{
+	display: inline;
+
+	position: relative;
+	top: -1px;
+
+	color: #326C99;
+
+	padding-left: 4px;
+
+	font-size: 120%;
+	font-weight: 400;
+
+	cursor: pointer;
+}
+
+div.lt-container-filters div.lt-filter-main div.lt-filter{
+	font-size: 120%;
+	font-weight: 900;
+}
+
+/* ************************* IMG  */
+div.lt-container-filters div.lt-container-minimizer img{
+	width: 26px;
+	height: 26px;
+
+	opacity: 0.75;
+
+	cursor: pointer;
+}
+
+div.lt-container-filters div.lt-container-minimizer img:HOVER{
+	opacity: 1.00;
+}
+
+/* ************************* INPUT  */
+div.lt-container-filters div.lt-filter input[type="checkbox"]{
+	cursor: pointer;
+}

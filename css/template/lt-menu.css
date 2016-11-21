@@ -1,0 +1,15 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+div.lt-container-menu{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div.lt-container-menu div.lt-menu{
+	background-image: url("../../images/background-menu.png");
+
+	height: 30px;
+}

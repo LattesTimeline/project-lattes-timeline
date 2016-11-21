@@ -1,0 +1,126 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+.lt-hidden{
+	display: none;
+}
+
+.lt-row{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.lt-clean{
+	clear: both;
+}
+
+/* ************************* BODY  */
+body{
+	background-color: #E1EAF2;
+}
+
+/* ************************* DIV  */
+div.lt-container-center{
+	margin-top: 20px;
+	margin-bottom: 40px;
+	padding: 10px 10px 10px 10px;
+
+	background-color: #FFF;
+
+	border-radius: 6px;
+	-o-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+
+	box-shadow: 1px 1px 3px #A6A6A6;
+}
+
+div.lt-container-text-center{
+	color: #326C99;
+	text-align: center;
+}
+
+div.lt-container-error{
+	margin: 10px 0 10px 0;
+	padding: 2px 12px 2px 12px;
+
+	background-color: #DBB9B8;
+
+	border: 1px solid #9F2F24;
+	border-radius: 6px;
+	-o-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+/* ************************* SPAN  */
+div.lt-container-error span{
+	color: #9F2F24;
+
+    font-size: 150%;
+    font-weight: 600;
+}
+
+/* ************************* INPUT  */
+input.lt-button{
+	color: #FFF;
+	background-color: #326C99;
+
+	font-size: 160%;
+	font-weight: 100;
+
+	padding: 4px 10px 6px 10px;
+
+	border: 1px solid #FFF;
+	border-radius: 6px;
+	-o-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+input.lt-button:HOVER{
+	color: #326C99;
+	border-color: #326C99;	
+	background-color: #E1EAF2;
+}
+
+/* ************************* BUTTON  */
+button.lt-button{
+	color: #FFF;
+	background-color: #326C99;
+
+	font-size: 160%;
+	font-weight: 100;
+
+	padding: 4px 10px 6px 10px;
+
+	border: 1px solid #FFF;
+	border-radius: 6px;
+	-o-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+button.lt-button:HOVER{
+	color: #326C99;
+	border-color: #326C99;	
+	background-color: #E1EAF2;
+}
+
+/* ************************* HR  */
+hr.lt-separator{
+	color: #A6C0D9;
+	
+	margin: 6px 0 6px 0;
+	padding: 2px 2px 2px 2px;
+
+	border: none;
+	border-bottom: 1px solid;
+
+	width: auto;
+}

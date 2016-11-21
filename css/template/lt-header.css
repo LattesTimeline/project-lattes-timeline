@@ -1,0 +1,67 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+div.lt-container-header{
+	margin-left: 0;
+	margin-right: 0;
+
+	padding-bottom: 10px;
+
+	background-color: #FFF;
+}
+
+div.lt-container-header div.lt-container-left-logo{
+	text-align: right;
+
+	padding-top: 10px;
+}
+
+div.lt-container-header div.lt-container-center-logo{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-header div.lt-container-center-logo div.lt-logo-image-left{
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-header div.lt-container-center-logo div.lt-logo-image-center{
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-header div.lt-container-center-logo div.lt-logo-image-right{
+	margin-left: 0;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-header div.lt-container-center-logo div.lt-logo-text-center{
+	position: absolute;
+
+	margin-top: 2%;
+	margin-left: 38.666667%;
+	margin-right: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+/* ************************* IMG  */
+div.lt-container-header div.lt-container-left-logo img{
+	width: 110px;
+}
+
+div.lt-container-header div.lt-container-center-logo div[class*="lt-logo-image"] img{
+	width: 100%;
+}
+
+div.lt-container-header div.lt-container-center-logo div.lt-logo-text-center img.lt-logo{
+	width: 100%;
+}

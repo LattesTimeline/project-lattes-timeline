@@ -1,0 +1,16 @@
+/*
+ * MOBILE_LANDSCAPE
+ * ---------------------------------------
+ * DESCRICAO : CSS PARA MOBILE NA ORIENTACAO LANDSCAPE
+ * ---------------------------------------
+*/
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+@media screen and (orientation:landscape) and (min-width:361px) and (max-width:640px) {
+	/* ************************* DIV  */
+	div.lt-container-header div.lt-container-center-logo div.lt-logo-text-center{
+		margin-left: 25% !important;
+	}
+}

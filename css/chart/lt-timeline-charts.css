@@ -1,0 +1,203 @@
+/*
+ * LT_TIMELINE_CHATS
+ * ---------------------------------------
+ * DESCRICAO : CSS DE TODOS OS ELEMENTOS DO GRAFICO
+ * ---------------------------------------
+*/
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+/* LEGENDA */
+div#lt-modal-chart div.lt-chart-container-legend{
+	margin-left: 0;
+	margin-right: 0;
+
+	text-align: center;
+
+	margin: 0 0 10px 0;
+	padding: 4px 4px 10px 4px;
+
+	border-bottom: 1px solid #326C99;
+}
+
+div#lt-modal-chart div.lt-chart-container-legend div[class*="lt-chart-legend"]{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+/* GRAFICO */
+div#lt-modal-chart div.lt-chart{
+	overflow: auto;
+}
+
+div#lt-modal-chart div.lt-chart-container-chart{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/* MASCARA */
+div#lt-modal-mask{
+	display: none;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	width: 0;
+	height: 0;
+
+	background-color: #000;
+
+	opacity: 0.45;
+
+	z-index: 100;
+}
+
+/* MODAL */
+div#lt-modal-chart{
+	display: none;
+
+	position: absolute;
+	top: 4%;
+	left: 10%;
+
+	margin: 0 0 0 0;
+	padding: 10px 10px 10px 10px;
+
+	color: #326C99;
+	background-color: #FFF;
+
+	width: 80%;
+	min-height: 200px;
+	max-height: 200px;
+
+	text-align: center;
+
+	border: 1px solid #326C99;
+	border-radius: 6px;
+	-o-border-radius: 6px;
+	-ms-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+
+	z-index: 110;
+}
+
+/* TOOLTIP DO GRAFICO */
+div#lt-chart-tooltip{
+	display: none;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+
+	color: #FFF;
+	background-color: #000;
+
+	padding: 4px 10px 4px 10px;
+
+	border: 1px solid #DCDCDC;
+	border-radius: 10px;
+	-o-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+
+	opacity: 0.75;
+
+	z-index: 1100;
+}
+
+div#lt-chart-tooltip div.lt-tooltip-title{
+    text-align: center;
+    
+    font-size: 120%;
+    font-weight: 500;
+    
+    border-bottom: 1px solid #FFF;
+}
+
+div#lt-chart-tooltip div.lt-tooltip-container-list{
+	text-align: left;
+}
+
+/* FILTRO DE ANO */
+div.lt-chart-container-filter-years{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-chart-container-filter-years div.lt-chart-container-width{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div.lt-chart-container-filter-years div.lt-chart-filter-years{
+	margin-left: 0;
+	margin-right: 0;
+
+	overflow: auto;
+}
+
+/* ************************* UL  */
+div#lt-chart-tooltip div.lt-tooltip-container-list ul.lt-tooltip-list{
+	list-style: none;
+
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+/* ************************* LI  */
+div#lt-chart-tooltip div.lt-tooltip-container-list ul.lt-tooltip-list li{
+	margin: 4px 0 4px 0;
+	padding: 2px 2px 2px 2px;
+}
+
+/* ************************* INPUT  */
+div.lt-chart-container-filter-years div.lt-chart-container-width input{
+	width: 100%;
+}
+
+/* ************************* SPAN  */
+div#lt-modal-chart div.lt-chart-container-legend span{
+	font-size: 135%;
+	font-weight: 100;
+}
+
+div#lt-modal-chart div.lt-chart-container-legend span.lt-chart-legend{
+	color: #FFF;
+	background-color: #326C99;
+
+	margin: 0 4px 0 0;
+	padding: 2px 10px 2px 10px;
+
+	border: 1px solid #808080;
+	border-radius: 4px;
+	-o-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+div#lt-modal-chart div.lt-chart-container-legend div.lt-chart-legend-projects span.lt-chart-legend{
+	background-color: rgba(220, 220, 220, 1.0);
+}
+
+div#lt-modal-chart div.lt-chart-container-legend div.lt-chart-legend-productions span.lt-chart-legend{
+	background-color: rgba(151, 187, 205, 1.0);
+}
+
+div#lt-modal-chart div.lt-chart-container-legend div.lt-chart-legend-boards span.lt-chart-legend{
+	background-color: rgba(120, 120, 120, 1.0);
+}
+
+div#lt-modal-chart div.lt-chart-container-legend div.lt-chart-legend-orientations span.lt-chart-legend{
+	background-color: rgba(50, 108, 153, 1.0);
+}
+
+/* ************************* LABEL  */
+div.lt-chart-container-filter-years div.lt-chart-filter-years label{
+	font-size: 120%;
+}

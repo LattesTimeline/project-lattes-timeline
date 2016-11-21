@@ -1,0 +1,129 @@
+/* AZUL CLARO : E1EAF2; */
+/* AZUL MEDIO : A6C0D9; */
+/* AZUL ESCURO : 326C99; */
+
+/* ************************* DIV  */
+div.lt-container-timeline div#lt-container-timeline-content{
+	padding-left: 10px;
+	padding-right: 10px;
+
+	border-left: 4px solid #326C99;
+}
+
+ div#lt-container-timeline-content div.lt-container-year-content{
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 20px;
+
+	padding-left: 10px;
+}
+
+div.lt-container-year-content div.lt-container-year-year{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div.lt-container-year-content div.lt-container-year-year div[class*="col"]{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-year-academic-content{
+    position: relative;
+    top: -2px;
+
+	margin-left: 0;
+	margin-right: 0;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+    border-left: 1px solid #326C99;
+    border-bottom: 1px dotted #326C99;
+}
+
+div.lt-container-year-academic-content div.lt-container-year-academic-node-title{
+	position: relative;
+	left: -10px;
+
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 10px;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-year-academic-content div.lt-container-year-academic-node-content{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+div.lt-container-year-academic-node-content div.lt-academic-label{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+div.lt-container-year-academic-content div.lt-academic-label{
+	margin-bottom: 10px;
+}
+
+/* ************************* SPAN  */
+div.lt-container-year-content div.lt-container-year-year span{
+	color: #326C99;
+
+	border-bottom: 1px solid #326C99;
+
+	font-size: 140%;
+	font-weight: 600;
+
+	cursor: pointer;
+}
+
+div.lt-container-year-content div.lt-container-year-year span:HOVER{
+	color: #A6C0D9;
+}
+
+div.lt-container-year-academic-node-title span{
+	color: #326C99;
+
+	padding-left: 10px;
+
+	border-bottom: 1px solid #326C99;
+
+	font-size: 140%;
+	font-weight: 400;
+
+	cursor: pointer;
+}
+
+div.lt-container-year-academic-node-title.lt-minor-title span{
+	font-size: 120%;
+	font-weight: 100;
+}
+
+div.lt-container-year-academic-node-title:HOVER span{
+	color: #A6C0D9;
+}
+
+div.lt-container-year-academic-node-content div.lt-academic-label span{
+	color: #326C99;
+}
+
+div.lt-container-year-academic-node-content div.lt-academic-label span.lt-academic-label-minor{
+	font-size: 80%;
+}
+
+div.lt-container-year-academic-node-content div.lt-academic-label span.lt-academic-label-major{
+	font-size: 100%;
+}
+
+div.lt-container-year-academic-node-content div.lt-academic-label span.lt-academic-label-highlight{
+	font-weight: 600;
+}
+
+div.lt-container-year-academic-node-content div.lt-academic-label span.lt-academic-label-item{
+	display: block;
+
+	margin-bottom: 2px;
+	padding-left: 10px;
+}
