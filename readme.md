@@ -31,10 +31,10 @@ seguinte link : [Guia de Instalação CodeIgniter](http://www.codeigniter.com/us
 
 O software se utiliza da licença GPL - General Public License - visa garantir quatro liberdades básicas ao usuário desse programa :
 
-1) A liberdade de executar o programa, para qualquer propósito;
-2) A liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades;
-3) A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo;
-4) A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles;
+1) A liberdade de executar o programa, para qualquer propósito
+2) A liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades
+3) A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo
+4) A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles
 
 
 ## Recursos
