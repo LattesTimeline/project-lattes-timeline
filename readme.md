@@ -31,10 +31,10 @@ seguinte link : [Guia de Instalação CodeIgniter](http://www.codeigniter.com/us
 
 O software se utiliza da licença GPL - General Public License - visa garantir quatro liberdades básicas ao usuário desse programa :
 
-1) A liberdade de executar o programa, para qualquer propósito
-2) A liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades
-3) A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo
-4) A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles
+1. A liberdade de executar o programa, para qualquer propósito
+2. A liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades
+3. A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo
+4. A liberdade de aperfeiçoar o programa, e liberar os seus aperfeiçoamentos, de modo que toda a comunidade se beneficie deles
 
 
 ## Recursos
@@ -45,28 +45,32 @@ O software se utiliza da licença GPL - General Public License - visa garantir q
 -  [Wiki do CodeIgniter](https://github.com/bcit-ci/CodeIgniter/wiki)
 -  [Comunidade IRC do CodeIgniter](http://www.codeigniter.com/irc)
 
-******************************
-Guia de Utilização do Software
-******************************
 
-Para 
+## Guia de Utilização do Software
+*********************************
 
-*********************
-Guia do Desenvolvedor
-*********************
+Para ...
 
--[Controllers](#controllers)
+
+## Guia do Desenvolvedor
+************************
+
+- [Controllers](#controllers)
 	- lt_index.php
 	- lt_timeline_generator.php
 	- lt_uploader.php
 
-- Libraries
+- [Libraries](#libraries)
 	- MY_LT_LIB.php
 
-- Views
+- [Views](#views)
 
---------------
+
 ## <a id="controllers">Controllers</a>
---------------
+
+Classes responsáveis pela funcionalidade de controle da aplicação.
 
 
+## <a id="libraries">Libraries</a>
+
+Classes de biblioteca 
