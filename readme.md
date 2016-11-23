@@ -77,11 +77,11 @@ Classes responsáveis pela funcionalidade de controle da aplicação.
 
 Classes de biblioteca 
 
-    - <a id="MY_LT_LIB">MY_LT_LIB</a>
+- <a id="MY_LT_LIB">MY_LT_LIB</a>
 
-    <p style="font-weight:900;">CRIADOR : Felipe Chagas</p>
+<p style="font-weight:900;">CRIADOR : Felipe Chagas</p>
 
-    > DESCRIÇÃO : Arquivo criado para conter as funcionalidades princi-
+> DESCRIÇÃO : Arquivo criado para conter as funcionalidades princi-
 > pais da aplicacao. Tais como : carregamento do arquivo de interna-
 > cionalizacao, consulta do arquivo XML, processamento dos NODE's do 
 > arquivo XML, etc. Essa é a principal biblioteca da aplicação.
