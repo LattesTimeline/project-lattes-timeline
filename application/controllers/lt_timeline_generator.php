@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * LT_TIMELINE_GENERATOR - Controller
+ * Lt_timeline_generator - Controller
  * -------------------------------------------------------------------
  * Controller de geracao da Timeline.
  * -------------------------------------------------------------------
@@ -10,12 +10,12 @@
  * em sessao. Ao final, faz o carregamento da pagina da Timeline.
  * -------------------------------------------------------------------
  * CARREGA : 
- * - LT_HEADER
- * - LT_MENU
- * - LT_INDEX | LT_TIMELINE
- * - LT_FOOTER
+ * - lt_header
+ * - lt_menu
+ * - lt_index | lt_timeline
+ * - lt_footer
  */
-class LT_TIMELINE_GENERATOR extends CI_Controller {
+class Lt_timeline_generator extends CI_Controller {
 
 	/*
 	 * CONSTRUCT

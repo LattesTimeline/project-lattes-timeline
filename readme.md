@@ -29,6 +29,8 @@ seguinte link : [Guia de Instalação CodeIgniter](http://www.codeigniter.com/us
 ## Licença
 **********
 
+Necessário ler também a licença do arquivo license.txt dentro desse projeto.
+
 O software se utiliza da licença GPL - General Public License - visa garantir quatro liberdades básicas ao usuário desse programa :
 
 1. A liberdade de executar o programa, para qualquer propósito
@@ -61,7 +63,7 @@ Para ...
 	- lt_uploader.php
 
 - [Libraries](#libraries)
-	- MY_LT_LIB.php
+	- [MY_LT_LIB.php](#MY_LT_LIB.php)
 
 - [Views](#views)
 
@@ -74,3 +76,11 @@ Classes responsáveis pela funcionalidade de controle da aplicação.
 ## <a id="libraries">Libraries</a>
 
 Classes de biblioteca 
+
+	## <a id="MY_LT_LIB.php">MY_LT_LIB</a>
+
+	> CRIADOR : Felipe Chagas
+	> DESCRIÇÃO : Arquivo criado para conter as funcionalidades princi-
+	> pais da aplicacao. Tais como : carregamento do arquivo de interna-
+	> cionalizacao, consulta do arquivo XML, processamento dos NODE's do 
+	> arquivo XML, etc. Essa é a principal biblioteca da aplicação.

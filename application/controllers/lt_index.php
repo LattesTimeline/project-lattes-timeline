@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * LT_INDEX - Controller
+ * Lt_index - Controller
  * -------------------------------------------------------------------
  * Controller de inicio.
  * -------------------------------------------------------------------
@@ -8,12 +8,12 @@
  * da aplicacao. Constroi a pagina basica.
  * -------------------------------------------------------------------
  * CARREGA : 
- * - LT_HEADER
- * - LT_MENU
- * - LT_INDEX
- * - LT_FOOTER
+ * - lt_header
+ * - lt_menu
+ * - lt_index
+ * - lt_footer
  */
-class LT_INDEX extends CI_Controller {
+class Lt_index extends CI_Controller {
 
 	/*
 	 * CONSTRUCT

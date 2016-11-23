@@ -50,10 +50,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 /* *********************************** ROUTES *********************************** */
-$route['default_controller'] 				= 'lt_index';
-$route['index'] 							= 'lt_index';
-$route['uploader'] 							= 'lt_uploader';
-$route['timeline-generator']				= 'lt_timeline_generator';
+$route['default_controller'] 				= 'Lt_index';
+$route['index'] 							= 'Lt_index';
+$route['uploader'] 							= 'Lt_uploader';
+$route['timeline-generator']				= 'Lt_timeline_generator';
 
 /* *********************************** ERRORS *********************************** */
 $route['404_override'] 						= '';

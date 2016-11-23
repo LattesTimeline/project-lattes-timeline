@@ -1,6 +1,6 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 /**
- * LT_UPLOADER - Controller
+ * Lt_uploader - Controller
  * -------------------------------------------------------------------
  * Controller de carregamento do arquivo XML.
  * -------------------------------------------------------------------
@@ -9,12 +9,12 @@
  * permanente.
  * -------------------------------------------------------------------
  * CARREGA : 
- * - LT_HEADER
- * - LT_MENU
- * - LT_INDEX
- * - LT_FOOTER
+ * - lt_header
+ * - lt_menu
+ * - lt_index
+ * - lt_footer
  */
-class LT_UPLOADER extends CI_Controller {
+class Lt_uploader extends CI_Controller {
 
 	/*
 	 * CONSTRUCT
