@@ -66,15 +66,23 @@ Para ...
 	- [MY_LT_LIB.php](#MY_LT_LIB)
 
 - [Views](#views)
-	- [Subviews](#subviews)
-		- [lt_chart.php](#lt_chart)
-		- [lt_timeline_content.php](#lt_timeline_content)
-		- [lt_timeline_content_year_boards.php](#lt_timeline_content_year_boards)
-		- [lt_timeline_content_year_orientations.php](#lt_timeline_content_year_orientations)
-		- [lt_timeline_content_year_productions.php](#lt_timeline_content_year_productions)
-		- [lt_timeline_content_year_projects.php](#lt_timeline_content_year_projects)
-		- [lt_timeline_content_years.php](#lt_timeline_content_years)
-		- [lt_timeline_filter.php](#lt_timeline_filter)
+	- [lt_index.php](#view_lt_index)
+	- [lt_timeline.php](#view_lt_timeline)
+	- [Chart](#view_chart)
+		- [lt_chart.php](#view_lt_chart)
+	- [Errors](#view_errors)
+	- [Subviews](#view_subviews)
+		- [lt_timeline_content.php](#view_lt_timeline_content)
+		- [lt_timeline_content_year_boards.php](#view_lt_timeline_content_year_boards)
+		- [lt_timeline_content_year_orientations.php](#view_lt_timeline_content_year_orientations)
+		- [lt_timeline_content_year_productions.php](#view_lt_timeline_content_year_productions)
+		- [lt_timeline_content_year_projects.php](#view_lt_timeline_content_year_projects)
+		- [lt_timeline_content_years.php](#view_lt_timeline_content_years)
+		- [lt_timeline_filter.php](#view_lt_timeline_filter)
+	- [Template](#view_template)
+		- [lt_header.php](#view_lt_header)
+		- [lt_menu.php](#view_lt_menu)
+		- [lt_footer.php](#view_lt_footer)
 
 
 ## <a id="controllers">Controllers</a>
@@ -121,3 +129,104 @@ Classes de biblioteca...
 
 
 ## <a id="views">Views</a>
+
+Arquivos que codificam as views da aplicação (páginas).
+
+- <a id="view_lt_index">lt_index</a>
+
+>  View que representa a página inicial.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline">lt_timeline</a>
+
+>  View que representa a estrutura geral de visualização da timeline.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+
+## <a id="view_chart">Chart</a>
+
+Arquivos que codificam as views de visualização dos gráficos.
+
+- <a id="view_lt_chart">lt_chart</a>
+
+>  View que representa o modal de visualização do gráfico.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+
+## <a id="view_errors">Errors</a>
+
+Arquivos que codificam as views de erros da aplicação.
+
+
+## <a id="view_subviews">Subviews</a>
+
+Arquivos que codificam as subviews da aplicação. Cada subview representa uma
+parte da aplicação.
+
+- <a id="view_lt_timeline_content">lt_timeline_content</a>
+
+>  Subview que representa a estrutura geral da timeline.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline_content_year_boards">lt_timeline_content_year_boards</a>
+
+>  Subview que representa a parte de bancas de jurado.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline_content_year_orientations">lt_timeline_content_year_orientations</a>
+
+>  Subview que representa a parte de orientações.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline_content_year_productions">lt_timeline_content_year_productions</a>
+
+>  Subview que representa a parte de produções.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline_content_year_projects">lt_timeline_content_year_projects</a>
+
+>  Subview que representa a parte de projetos.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline_content_years">lt_timeline_content_years</a>
+
+>  Subview que representa a parte da página com os anos de publicações.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_timeline_filter">lt_timeline_filter</a>
+
+>  Subview que representa a parte da página com os filtros.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+
+## <a id="view_template">Template</a>
+
+Arquivos que codificam as partes do template das páginas.
+
+- <a id="view_lt_header">lt_header</a>
+
+>  Template com o cabeçalho.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_menu">lt_menu</a>
+
+>  Template com o menu.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="view_lt_footer">lt_footer</a>
+
+>  Template com o rodapé.
+> <br><br>
+> CRIADOR : Felipe Chagas
