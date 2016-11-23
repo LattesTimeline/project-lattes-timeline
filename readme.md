@@ -79,8 +79,9 @@ Classes de biblioteca
 
 - <a id="MY_LT_LIB">MY_LT_LIB</a>
 
-> Arquivo criado para conter as funcionalidades princi-
+>   Arquivo criado para conter as funcionalidades princi-
 > pais da aplicacao. Tais como : carregamento do arquivo de interna-
 > cionalizacao, consulta do arquivo XML, processamento dos NODE's do 
-> arquivo XML, etc. Essa é a principal biblioteca da aplicação.<br>
+> arquivo XML, etc. Essa é a principal biblioteca da aplicação.
+> <br><br>
 > CRIADOR : Felipe Chagas
