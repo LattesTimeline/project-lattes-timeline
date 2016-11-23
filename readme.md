@@ -77,7 +77,7 @@ Classes responsáveis pela funcionalidade de controle da aplicação.
 
 Classes de biblioteca 
 
-## <a id="MY_LT_LIB.php">MY_LT_LIB</a>
+<a id="MY_LT_LIB.php">MY_LT_LIB</a>
 
 > CRIADOR : Felipe Chagas
 > DESCRIÇÃO : Arquivo criado para conter as funcionalidades princi-
