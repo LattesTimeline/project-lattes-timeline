@@ -63,7 +63,7 @@ Para ...
 	- lt_uploader.php
 
 - [Libraries](#libraries)
-	- [MY_LT_LIB.php](#MY_LT_LIB.php)
+	- [MY_LT_LIB.php](#MY_LT_LIB)
 
 - [Views](#views)
 
@@ -77,9 +77,10 @@ Classes responsáveis pela funcionalidade de controle da aplicação.
 
 Classes de biblioteca 
 
-<a id="MY_LT_LIB.php">MY_LT_LIB</a>
+<a id="MY_LT_LIB">MY_LT_LIB</a>
 
-> CRIADOR : Felipe Chagas
+<p style="font-weight:900;">CRIADOR : Felipe Chagas</p>
+
 > DESCRIÇÃO : Arquivo criado para conter as funcionalidades princi-
 > pais da aplicacao. Tais como : carregamento do arquivo de interna-
 > cionalizacao, consulta do arquivo XML, processamento dos NODE's do 
