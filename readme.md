@@ -82,5 +82,5 @@ Classes de biblioteca
 > Arquivo criado para conter as funcionalidades princi-
 > pais da aplicacao. Tais como : carregamento do arquivo de interna-
 > cionalizacao, consulta do arquivo XML, processamento dos NODE's do 
-> arquivo XML, etc. Essa é a principal biblioteca da aplicação.
+> arquivo XML, etc. Essa é a principal biblioteca da aplicação.<br>
 > CRIADOR : Felipe Chagas
