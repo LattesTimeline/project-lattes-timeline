@@ -75,9 +75,10 @@ Classes responsáveis pela funcionalidade de controle da aplicação.
 
 ## <a id="libraries">Libraries</a>
 
-Classes de biblioteca 
+Classes de biblioteca...
 
-- <a id="MY_LT_LIB">MY_LT_LIB</a>
+-
+	- <a id="MY_LT_LIB">MY_LT_LIB</a>
 
 >   Arquivo criado para conter as funcionalidades princi-
 > pais da aplicacao. Tais como : carregamento do arquivo de interna-
