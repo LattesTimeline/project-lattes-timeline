@@ -66,6 +66,15 @@ Para ...
 	- [MY_LT_LIB.php](#MY_LT_LIB)
 
 - [Views](#views)
+	- [Subviews](#subviews)
+		- [lt_chart.php](#lt_chart)
+		- [lt_timeline_content.php](#lt_timeline_content)
+		- [lt_timeline_content_year_boards.php](#lt_timeline_content_year_boards)
+		- [lt_timeline_content_year_orientations.php](#lt_timeline_content_year_orientations)
+		- [lt_timeline_content_year_productions.php](#lt_timeline_content_year_productions)
+		- [lt_timeline_content_year_projects.php](#lt_timeline_content_year_projects)
+		- [lt_timeline_content_years.php](#lt_timeline_content_years)
+		- [lt_timeline_filter.php](#lt_timeline_filter)
 
 
 ## <a id="controllers">Controllers</a>
@@ -96,6 +105,7 @@ Classes responsáveis pela funcionalidade de controle da aplicação.
 > <br><br>
 > CRIADOR : Felipe Chagas
 
+
 ## <a id="libraries">Libraries</a>
 
 Classes de biblioteca...
@@ -108,3 +118,6 @@ Classes de biblioteca...
 > arquivo XML, etc. Essa é a principal biblioteca da aplicação.
 > <br><br>
 > CRIADOR : Felipe Chagas
+
+
+## <a id="views">Views</a>
