@@ -58,9 +58,9 @@ Para ...
 ************************
 
 - [Controllers](#controllers)
-	- lt_index.php
-	- lt_timeline_generator.php
-	- lt_uploader.php
+	- [lt_index.php](#lt_index)
+	- [lt_uploader.php](#lt_uploader)
+	- [lt_timeline_generator.php](#lt_timeline_generator)
 
 - [Libraries](#libraries)
 	- [MY_LT_LIB.php](#MY_LT_LIB)
@@ -72,13 +72,35 @@ Para ...
 
 Classes responsáveis pela funcionalidade de controle da aplicação.
 
+- <a id="lt_index">lt_index</a>
+
+>  Controller responsavel pela inicialização da aplicação e a 
+> construção da página inicial.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="lt_uploader">lt_uploader</a>
+
+>  Controller responsável pelo carregamento do arquivo XML 
+> Realiza a movimentação do arquivo do local temporário para um local 
+> permanente.
+> <br><br>
+> CRIADOR : Felipe Chagas
+
+- <a id="lt_timeline_generator">lt_timeline_generator</a>
+
+>  Controller responsável pela leitura do arquivo XML, já 
+> carregado através do controller LT_UPLOADER. Também faz a chamada 
+> dos métodos de consulta dos NODE's e atributos, para colocá-los 
+> em sessão. Ao final, faz o carregamento da página da Timeline.
+> <br><br>
+> CRIADOR : Felipe Chagas
 
 ## <a id="libraries">Libraries</a>
 
 Classes de biblioteca...
 
--
-	- <a id="MY_LT_LIB">MY_LT_LIB</a>
+- <a id="MY_LT_LIB">MY_LT_LIB</a>
 
 >   Arquivo criado para conter as funcionalidades princi-
 > pais da aplicacao. Tais como : carregamento do arquivo de interna-
