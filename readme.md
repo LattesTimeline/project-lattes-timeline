@@ -1,6 +1,7 @@
 # Lattes Timeline
 *****************
-- [Introdução](#lt_introducao)
+- 1. [Introdução](#lt_introducao)
+	- 1.1. [Finalidade](#lt_finalidade)
 - [Controllers](#controllers)
 	- [lt_index.php](#lt_index)
 	- [lt_uploader.php](#lt_uploader)
@@ -34,6 +35,10 @@
 Lattes Timeline é uma aplicação Web para visualização de currículos da plataforma Lattes do CNPQ, em formato XML.
 É possível visualizar as publicações do currículo em um formato de linha do tempo, todas organizadas por ano e tipos.
 Também pode-se visualizar um gráfico interativo com a quantidade de publicações por ano.
+
+
+## <a id="#lt_finalidade">Finalidade</a>
+
 
 
 ## Informações de Versão
