@@ -37,6 +37,8 @@
 		- 3.3.3. [Lt_timeline_generator.php](#lt_timeline_generator)
 	- 3.4. [Libraries](#lt_libraries)
 		- 3.4.1. [MY_LT_LIB.php](#MY_LT_LIB)
+- 4. [Configurações](#lt_configuracoes)
+	- 4.1. []
 
 
 
