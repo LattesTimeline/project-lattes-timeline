@@ -2,6 +2,7 @@
 *****************
 - 1. [Introdução](#lt_introducao)
 	- 1.1. [Finalidade](#lt_finalidade)
+	- 1.2. [Definições, Acrônimos e Abreviações](#lt_acronimos)
 - [Controllers](#controllers)
 	- [lt_index.php](#lt_index)
 	- [lt_uploader.php](#lt_uploader)
@@ -39,6 +40,14 @@ Também pode-se visualizar um gráfico interativo com a quantidade de publicaç�
 
 ## <a id="#lt_finalidade">Finalidade</a>
 
+Este documento apresenta uma visão geral abrangente da arquitetura do sistema e utiliza uma série de visões arquiteturais diferentes para ilustrar os diversos aspectos do sistema. Sua intenção é capturar e transmitir as decisões significativas do ponto de vista da arquitetura que foram tomadas em relação ao sistema.
+
+
+## <a id="#lt_acronimos">Definições, Acrônimos e Abreviações</a>
+
+| C.I.						= CodeIgniter;
+| NODES						= Nós ou Tags de um arquivo XML;
+| Timeline 					= Linha do tempo;
 
 
 ## Informações de Versão
