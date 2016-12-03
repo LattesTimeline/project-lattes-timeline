@@ -152,3 +152,115 @@
 | -------------------------------------------------------------------
 |
 */
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\chart\lt_chart.php
+| -------------------------------------------------------------------
+| lt_chart
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega o modal contendo o gráfico com as
+| publicações por ano.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_content.php
+| -------------------------------------------------------------------
+| lt_timeline_content
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura do conteúdo geral da
+| página com as publicações agrupadas por ano.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_content_year_boards.php
+| -------------------------------------------------------------------
+| lt_timeline_content_year_boards
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura do conteúdo das bancas 
+| na página de linha do tempo.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_content_year_orientations.php
+| -------------------------------------------------------------------
+| lt_timeline_content_year_orientations
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura do conteúdo das orientações 
+| na página de linha do tempo.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_content_year_productions.php
+| -------------------------------------------------------------------
+| lt_timeline_content_year_productions
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura do conteúdo das produções 
+| na página de linha do tempo.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_content_year_projects.php
+| -------------------------------------------------------------------
+| lt_timeline_content_year_projects
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura do conteúdo de projetos 
+| na página de linha do tempo.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_content_years.php
+| -------------------------------------------------------------------
+| lt_timeline_content_years
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura do filtro lateral con-
+| tendo todos os anos em que houveram publicações.
+| -------------------------------------------------------------------
+|
+*/
+
+/*
+| -------------------------------------------------------------------
+| lattes-timeline\application\views\subview\lt_timeline_filters.php
+| -------------------------------------------------------------------
+| lt_timeline_filters
+| -------------------------------------------------------------------
+| CRIADOR : Felipe Chagas
+| -------------------------------------------------------------------
+| DESCRIÇÃO : Arquivo que carrega a estrutura dos filtros por tipo de
+| publicação.
+| -------------------------------------------------------------------
+|
+*/
